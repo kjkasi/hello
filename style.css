@@ -29,3 +29,8 @@ h1 {
 p {
   margin: 0px 0px 10px 0px;
 }
+
+img {
+  width: 50%;
+  height: 50%;
+}
